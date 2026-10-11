@@ -1,0 +1,4 @@
+  DataCoSupplyChainDataset.csv
+  data/clean.csv
+  __pycache__/
+  *.pyc
